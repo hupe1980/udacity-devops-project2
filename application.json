@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Udacity"
+  },
+  {
+    "ParameterKey": "AppInstanceType",
+    "ParameterValue": "t2.medium"
+  },
+  {
+    "ParameterKey": "EC2KeyName",
+    "ParameterValue": "udacity_key"
+  }
+]

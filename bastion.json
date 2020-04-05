@@ -1,0 +1,19 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Udacity"
+  },
+  {
+    "ParameterKey": "BastionInstanceType",
+    "ParameterValue": "t2.medium"
+  },
+  {
+    "ParameterKey": "EC2KeyName",
+    "ParameterValue": "udacity_key"
+  },
+  {
+    "ParameterKey": "SshAccessCidr",
+    "ParameterValue": "0.0.0.0/0" 
+  }
+
+]
